@@ -36,21 +36,6 @@
       "_note": "",
       "_profilePic": "../assets/profile-images/Ellipse -1.png",
       "id": 3
-    },
-    {
-      "_name": "Sreekar Pothuri",
-      "_profilePic": "../assets/profile-images/Ellipse -3.png",
-      "_gender": "male",
-      "_department": [
-        "HR",
-        "Sales",
-        "Finance",
-        "Engineer"
-      ],
-      "_salary": "500000",
-      "_note": "All in one...",
-      "_startDate": "23 Nov 2020",
-      "id": 4
     }
   ]
 }
